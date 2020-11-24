@@ -19,8 +19,8 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      // url: "https://asdfvvv.herokuapp.com/resumeData.json",
-      url: "http://localhost:3000/resumeData.json",
+      url: "https://my-portfolio-now.firebaseapp.com/resumeData.json",
+      // url: "http://localhost:3000/resumeData.json",
       dataType: "json",
       cache: false,
       success: function(data){
