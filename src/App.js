@@ -19,8 +19,10 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url: "https://my-portfolio-now.firebaseapp.com/resumeData.json",
-      // url: "http://localhost:3000/resumeData.json",
+      // Use localhost if developing otherwise use the other url for
+      // deploying.
+      // url: "https://deployed_url_here/resumeData.json",
+      url: "http://localhost:3000/resumeData.json",
       dataType: "json",
       cache: false,
       success: function(data){

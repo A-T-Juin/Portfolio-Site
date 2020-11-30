@@ -79,7 +79,7 @@
         "category": "Python, JavaScript, Django, React, Redux, React-Router",
         "tags": "Python, JavaScript, Django, and React",
         "image": "financemanager.jpg",
-        "url": "https://github.com/A-T-Juin/Finance-Manager"
+        "url": "https://github.com/A-T-Juin/personal_finance_manager"
       },
       {
         "title": "What's Cooking",
@@ -87,6 +87,13 @@
         "category": "Python, JavaScript, GraphQL, Django, React, Relay, AWS S3, React-Router",
         "image": "whatscooking.jpg",
         "url": "https://github.com/A-T-Juin/whatscooking"
+      },
+      {
+        "title": "Portfolio Page",
+        "description": "A simple portfolio page",
+        "category": "JavaScript, React ",
+        "image": "portfolio.jpg",
+        "url": "https://github.com/A-T-Juin/portfolio-site"
       }
     ]
   }
