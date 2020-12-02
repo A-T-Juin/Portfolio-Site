@@ -21,8 +21,8 @@ class App extends Component {
     $.ajax({
       // Use localhost if developing otherwise use the other url for
       // deploying.
-      // url: "https://deployed_url_here/resumeData.json",
-      url: "http://localhost:3000/resumeData.json",
+      url: "https://allan-portfolio-1e9fe.firebaseapp.com/resumeData.json",
+      // url: "http://localhost:3000/resumeData.json",
       dataType: "json",
       cache: false,
       success: function(data){

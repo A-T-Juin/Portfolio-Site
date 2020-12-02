@@ -3,7 +3,7 @@
     "name": "Allan Tham",
     "occupation": "Full Stack Engineer",
     "description": "who has a passion for learning and perpetual improvement.  I believe that there is an answer for every problem — and if a solution is seemingly missing, then it simply has not been discovered yet. I love being challenged and being out of my comfort zone, for I believe that is where I thrive and develop both as a person and as an engineer.",
-    "email": "a.t.juin@gmail.com",
+    "email": "AllanJuin@AllanJuin.me",
     "social":[
       {
         "name": "linkedin",
@@ -86,7 +86,7 @@
         "description": "A social media app for users to create & discover new recipes",
         "category": "Python, JavaScript, GraphQL, Django, React, Relay, AWS S3, React-Router",
         "image": "whatscooking.jpg",
-        "url": "https://github.com/A-T-Juin/whatscooking"
+        "url": "https://github.com/A-T-Juin/Whatscooking-Frontend"
       },
       {
         "title": "Portfolio Page",

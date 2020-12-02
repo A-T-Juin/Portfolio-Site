@@ -10,3 +10,7 @@ This project was started when I was thinking of a way to showcase some works tha
 
  - JavaScript
  - React
+
+## Contribute
+
+If you're interested in helping with the project, email me @ AllanJuin@AllanJuin.me !
